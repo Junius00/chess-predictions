@@ -37,3 +37,15 @@ The flow of our project is as follows:
 - Using MLR modelling
 - 3D graphing techniques
 - How to use GitHub
+
+## Individual Contributions
+- Shao Wei: EDA, data preparation
+- Junius: MLR processing, data export
+- Donchada: Post model analysis
+
+## References
+- https://seaborn.pydata.org/introduction.html
+- https://www.datasklr.com/logistic-regression/multinomial-logistic-regression
+- https://machinelearningmastery.com/multinomial-logistic-regression-with-python/
+- https://seaborn.pydata.org/generated/seaborn.jointplot.html
+- https://stackoverflow.com/questions/62929880/how-to-plot-3d-plots-on-top-of-each-other-and-highlight-their-intersection-in-py
